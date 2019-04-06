@@ -1,7 +1,9 @@
+*.js linguist-language=c
+*.css linguist-language=c
+*.html linguist-language=c
 #include <stdio.h>
 int main(void)
 {
     printf("Hello World!\n");
-    return 0;
-  
+    return 0; 
 }
